@@ -3,3 +3,7 @@
 
 # Ignore Gradle build output directory
 build
+/OOCL_Pre_ME.Gradle-builds-Java-projects-2019-7-12-8-47-48-372.main.iml
+/OOCL_Pre_ME.Gradle-builds-Java-projects-2019-7-12-8-47-48-372.test.iml
+/out/production/classes/src/App.class
+/out/test/classes/src/AppTest.class

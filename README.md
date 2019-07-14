@@ -9,7 +9,7 @@ Get to know what is Gradle and build a java project with Gradle step by step and
 2. Use Gradle to compile Javap project	//gradle build
 3. Use Gradle run automatic test	//gradle test
 4. Use Gradle to add ideaplug-in, and generate Intellj Idea project files	//gradle idea
-5. Use Gradle to run program to output "This is a Gradle Project" to command line
+5. Use Gradle to run program to output "This is a Gradle Project" to command line	//gradle run
 6. Add Mockito dependence and simply use Mockito in test method to get test passed 
 ```
     @Test
